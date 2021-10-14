@@ -1,0 +1,51 @@
+const menu = [
+    {
+        id:1,
+        name:"Pancakes",
+        category:"Breakfast",
+        price:60,
+        info:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. At aspernatur deserunt magnam. Unde, sit dolorem!",
+        Image:"resources/images/menu_1.jpg",
+    },
+    {
+        id:2,
+        name:"Tea and Bread",
+        category:"Lunch",
+        price:60,
+        info:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. At aspernatur deserunt magnam. Unde, sit dolorem!",
+        Image:"resources/images/menu_2.jpg",
+    },
+    {
+        id:3,
+        name:"Fufu and Groundnut",
+        category:"Super",
+        price:60,
+        info:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. At aspernatur deserunt magnam. Unde, sit dolorem!",
+        Image:"resources/images/menu_3.jpg",
+    },
+    {
+        id:4,
+        name:"Ampesie",
+        category:"Lunch",
+        price:60,
+        info:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. At aspernatur deserunt magnam. Unde, sit dolorem!",
+        Image:"resources/images/menu_4.jpg",
+    },
+    {
+        id:5,
+        name:"Pizza",
+        category:"Lunch",
+        price:70,
+        info:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. At aspernatur deserunt magnam. Unde, sit dolorem!",
+        Image:"resources/images/menu_1.jpg",
+    },
+    {
+        id:6,
+        name:"Banku",
+        category:"Super",
+        price:20,
+        info:"Lorem ipsum, dolor sit amet consectetur adipisicing elit. At aspernatur deserunt magnam. Unde, sit dolorem!",
+        Image:"resources/images/menu_1.jpg",
+    },
+]
+export default menu;

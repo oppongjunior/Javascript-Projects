@@ -1,0 +1,30 @@
+html{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+*,*::after,*::before{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(247, 251, 255);
+    color:rgb(54, 54, 54);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.menu-image{
+    width:100%;
+
+}
+@media screen and (min-width:992px) {
+    .menu-image{
+        width: 250px;
+    }
+    .menu-item-container{
+        border: 2px solid rgb(189, 189, 189);
+        padding:10px;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+}
+}
